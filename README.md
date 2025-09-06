@@ -32,11 +32,10 @@
 
 ## 📸 Screenshots
 
-### Homepage
-![Homepage](./assets/screenshots/home.png)
+### ReviewPage
+![ReviewPage](./assets/screenshots/review.png)
 
-### Mobile View
-![Mobile View](./assets/screenshots/mobile.png)
+
 
 
 ---
