@@ -93,9 +93,3 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ```
 
-
-
----
-
-👉 Do you want me to also add **shields.io badges** (like GitHub stars, forks, last commit, deployment status) at the top for a **GitHub Pro look**?
-```
